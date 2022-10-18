@@ -30,7 +30,7 @@ A leitura do doc foi feita manualmente, onde eu passei através da função "adi
 Utilizando a função "mostra_matriz()", eu mostro como ficou a minha matriz após a atribuição dos valores. (imagem abaixo)
 
 ![image](https://user-images.githubusercontent.com/37878654/196315326-5e528dbb-2ba0-449f-a2bf-3b8d2200c468.png)
-![image](https://user-images.githubusercontent.com/37878654/196315463-6234ef8d-0c55-4772-b091-6b9027f164f9.png)
+![image](https://user-images.githubusercontent.com/37878654/196316653-f8831d12-85c3-4f55-a384-366532d573cf.png)
 
 Através da função "dijkstra()" eu mostro o menor caminho entre o ponto origem, até o último vértice do meu grafo. 
 
