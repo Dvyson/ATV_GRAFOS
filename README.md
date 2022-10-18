@@ -25,7 +25,7 @@ E logo em seguida, após um calculo, é mostrado o valor que responde a questão
 
 A leitura do doc foi feita manualmente, onde eu passei através da função "adiciona_aresta()" todos os valores passados no documento. (imagem abaixo)
 
-![image](https://user-images.githubusercontent.com/37878654/196315041-3d74ce20-495b-410e-ba32-44f07485c0f4.png)
+![image](https://user-images.githubusercontent.com/37878654/196316559-df0feba9-9360-4475-83ad-e57a555f89e2.png)
 
 Utilizando a função "mostra_matriz()", eu mostro como ficou a minha matriz após a atribuição dos valores. (imagem abaixo)
 
